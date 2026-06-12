@@ -1,0 +1,1 @@
+Crea un repositorio Git en una carpeta.

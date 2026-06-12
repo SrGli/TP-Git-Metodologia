@@ -1,0 +1,2 @@
+Si se usa como "git config user.name" y luego entre comillas dobles un nombre, define el nombre del autor asociado a los commits.
+Si se usa como "git config user.email" y luego entre comillas dobles un email, define el email asociado a los commits.
