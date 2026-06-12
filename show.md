@@ -1,0 +1,1 @@
+git show es como una lupa para los commits, permitiendo al usuario ver la información detallada de cada commit (Cada cambio, edición, eliminación, adición, etc). Por defecto, muestra la información del commit mas reciente. git show <hash> se puede utilizar si se tiene como objetivo un commit en particular.

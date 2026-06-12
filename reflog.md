@@ -1,0 +1,1 @@
+git reflog es una herramienta para ver un listado de todas las actividades y modificaciones realizadas exclusivamente en el repositorio local. Aparte de commits, también registra acciones como cambio de ramas o resets. A diferencia de log, no guardia los cambios de manera permanente. Tiene un límite de tiempo de 90 días.

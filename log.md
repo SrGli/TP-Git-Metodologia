@@ -1,0 +1,2 @@
+git log es un comando que, por si solo, muestra el historial de commits realizados en la rama específica en la que se utiliza. Los ordena de mas recientes a mas antiguos y muestra la fecha y hora exactas, información del autor, mensaje y hash del commit.
+El comando también puede ser alterado con flags específicas, como --oneline o --graph para modificar como se muestran los resultados, o filtros como --author="nombre de autor"
