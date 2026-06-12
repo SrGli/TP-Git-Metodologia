@@ -2,29 +2,48 @@
 
 En este repositorio se encuentran explicadas las funciones de todos los comandos de git vistos a lo largo del curso. Este archivo contiene enlaces hacia cada explicación para una navegación más fácil.
 
-[estadísticas del repositorio](estadisticas.md)
+[Estadísticas del repositorio](estadisticas.md)
+---------------------------------------------------
+
+[Add](add.md)
+
+[Branch](branch.md)
+
+[Checkout, switch y restore](checkout-switch-restore.md)
+
+[Commit](commit.md)
+
+[Config](config.md)
+
+[Diff](diff.md)
+
+[Estadisticas](estadisticas.md)
+
+[Help](help.md)
+
+[Init](init.md)
+
+[Log](log.md)
+
+[Merge](merge.md)
+
+[Pull y push](pull-push.md)
+
+[Reflog](reflog.md)
+
+[Remote](remote.md)
+
+[Reset](reset.md)
+
+[Revert](revert.md)
+
+[Show](show.md)
+
+[Status](status.md)
+
+[Version](version.md)
 
 
-[add](add.md)
-[branch](branch.md)
-[checkout, switch y restore](checkout-switch-restore.md)
-[commit](commit.md)
-[config](config.md)
-[diff](diff.md)
-[estadisticas](estadisticas.md)
-[help](help.md)
-[init](init.md)
-[log](log.md)
-[merge](merge.md)
-[pull y push](pull-push.md)
-[reflog](reflog.md)
-[remote](remote.md)
-[reset](reset.md)
-[revert](revert.md)
-[show](show.md)
-[status](status.md)
-[version](version.md)
-
-[utilización de IA](IA.md)
-
+[Utilización de IA](IA.md)
+---------------------------------------------------
 Integrantes del grupo: Federico Luengo, Andrés Rossi y Gino Marigioli
