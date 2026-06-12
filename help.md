@@ -1,0 +1,1 @@
+Te muestra la documentaciond el comando que necesites, por ej "git commit --help".
