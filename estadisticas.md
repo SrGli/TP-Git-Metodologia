@@ -1,5 +1,12 @@
-Integrante con mas commits - git shortlog -s -n
+mayor cantidad de commits: git shortlog --summary --numbered
 
-Cantidad de merges - git log --merges --online | wc -l
+cantidad de merges: git rev-list --count --merges
 
-Cantidad de ramas - git branch -a | wc -l
+conflictos producidos: git diff --name-only --diff-filter=U | wc -l
+
+cantidad de ramas: git branch
+
+commit con mayor cantidad de cambios: (git log --shortstat --pretty=format:"%H %s" | awk '
+/files? changed/ {files=$1} 
+!/files? changed/ {if (commit && files) print files, commit; commit=$0; files=0} 
+END {if (files) print files, commit}' | sort -nr | head -n 1)

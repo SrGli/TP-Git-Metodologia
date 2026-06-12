@@ -1,0 +1,1 @@
+El comando status muestra un resumen del estado de las áreas de trabajo locales (working directory/staging area). Notifica sobre las diferencias con el repositorio remoto, cambios no añadidos y cambios añadidos y listos para el commit.
