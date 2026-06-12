@@ -1,0 +1,1 @@
+Los comandos utilizados para el archivo [estadísticas](estadísticas.md) fueron obtenidos mediante Gemini de Google.
